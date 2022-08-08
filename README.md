@@ -10,4 +10,4 @@ My personal projects:
 * https://knitties-analytics-app.herokuapp.com/
 
 My current project:
-* Hasell to Python : A handbook for "translating" Haskell code to Python code and hopefuly more - https://github.com/lindleycoetzee/haskell_to_python
+* Hasell to Python : A handbook for "translating" Haskell code to Python code and hopefuly more - https://github.com/lindleycoetzee/haskell_to_python - (scrapped)
