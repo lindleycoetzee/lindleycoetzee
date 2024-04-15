@@ -9,4 +9,4 @@ My personal projects:
 * https://cardanowarriors-analytics.herokuapp.com/
 * https://knitties-analytics-app.herokuapp.com/
 
-Currently looking forward to PyCon2023 Namibia : https://na.pycon.org/
+Currently looking working on my habit tracker(https://github.com/lindleycoetzee/habit_tracker) inspired by Atomic Habits written by James Clear.
