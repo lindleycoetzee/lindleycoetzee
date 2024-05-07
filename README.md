@@ -6,7 +6,7 @@
 
 My personal projects:
 * https://ipl-analytics-app.herokuapp.com/
-* [https://cardanowarriors-analytics.herokuapp.com/](https://habittracker-85746856b34a.herokuapp.com/)
-* https://knitties-analytics-app.herokuapp.com/
+* https://habittracker-85746856b34a.herokuapp.com/
+* https://cow-analytics.herokuapp.com/
 
-Currently looking working on my habit tracker(https://github.com/lindleycoetzee/habit_tracker) inspired by Atomic Habits written by James Clear.
+Currently finished my habit tracker(https://github.com/lindleycoetzee/habit_tracker) inspired by Atomic Habits written by James Clear. Now on to the next project.
