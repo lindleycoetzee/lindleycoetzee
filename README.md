@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Cardano blockchain, python programming, data analytics
 - 🌱 I’m currently learning Dash
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me on Twitter at @LindleyCoetzee
+- 📫 Twitter/X : @LindleyCoetzee
 
 My personal projects:
 * https://ipl-analytics-app.herokuapp.com/
