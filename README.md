@@ -9,4 +9,4 @@ My personal projects:
 * [https://habittracker-85746856b34a.herokuapp.com/](https://habittracker-0b38888edf50.herokuapp.com/)
 * https://cow-analytics.herokuapp.com/
 
-Currently finished my habit tracker(https://github.com/lindleycoetzee/habit_tracker) inspired by Atomic Habits written by James Clear. Now on to the next project...hopefully 🙂
+Currently working on a [English Premier League](https://github.com/lindleycoetzee/epl) web app
